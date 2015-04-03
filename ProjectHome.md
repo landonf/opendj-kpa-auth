@@ -1,0 +1,1 @@
+An OpenDJ authentication policy plugin for users whose credentials are managed by an external Kerberos realm.
